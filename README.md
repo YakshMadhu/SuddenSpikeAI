@@ -17,14 +17,14 @@ But these known indicators raise a more interesting possibility: **what if there
 
 The project will primarily use:
 
---- **Python** — machine learning, deep learning, statistical analysis, experimentation, and data processing
---- **C++** — performance-critical market-data processing and computation
---- **SQL** — storing, querying, and analyzing large amounts of historical market data
---- **PyTorch** — developing and experimenting with deep-learning models
---- **NumPy/Pandas/Polars** — numerical and market-data processing
---- **Scikit-learn** — statistical modeling, clustering, anomaly detection, and baseline models
---- **FastAPI** — exposing the prediction and discovery system through an API
---- **TypeScript (React)** — building a real-time interface for viewing discovered patterns and model predictions
---- **Git (GitHub)** — version control, experiments, documentation, and project development
+- **Python** — machine learning, deep learning, statistical analysis, experimentation, and data processing
+- **C++** — performance-critical market-data processing and computation
+- **SQL** — storing, querying, and analyzing large amounts of historical market data
+- **PyTorch** — developing and experimenting with deep-learning models
+- **NumPy/Pandas/Polars** — numerical and market-data processing
+- **Scikit-learn** — statistical modeling, clustering, anomaly detection, and baseline models
+- **FastAPI** — exposing the prediction and discovery system through an API
+- **TypeScript (React)** — building a real-time interface for viewing discovered patterns and model predictions
+- **Git (GitHub)** — version control, experiments, documentation, and project development
 
 **This is fluid and is likely to change as the research progresses**
