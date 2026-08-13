@@ -11,4 +11,4 @@ But these known indicators raise a more interesting possibility: **what if there
 
 ### Research Question
 
-**Can an AI system autonomously discover previously unknown/very complex patterns in market data that precede short squeezes and use those patterns to estimate, in real time, the probability that a short squeeze is developing?**
+**Can an AI system autonomously discover previously unknown/very complex patterns in market data that precede short squeezes and use those patterns to estimate, in real time, the probability that a short squeeze is developing?**.
